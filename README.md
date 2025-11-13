@@ -1,6 +1,8 @@
 # todo_app
 
-A new Flutter project.
+A new Flutter project about a "to do app".
+
+The main code can be found in `/lib` dir
 
 ## Getting Started
 
